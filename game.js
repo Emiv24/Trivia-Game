@@ -81,9 +81,9 @@ function showScores() {
 var questions = [
     new Question("How many colors are in a rainbow?", ["9", "8","7", "6"], "7"),
     new Question("How many letters are in the alphabet", ["29", "28", "27", "26"], "26"),
-    new Question("", ["1", "6","2", "4"], "4"),
-    new Question("Which language is used for web apps?", ["PHP", "Python", "Javascript", "All"], "All"),
-    new Question("MVC is a ____.", ["Language", "Library", "Framework", "All"], "Framework")
+    new Question("What color is a strawberry?", ["green", "blue","red", "orange"], "red"),
+    new Question("What color is a bannana", ["yellow", "orange", "green", "blue"], "yellow"),
+    new Question("What is the color of the ocean", "blue", "green","clear", "white"], "blue")
 ];
 
 // create quiz
